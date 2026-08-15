@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C9EF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Arushi+Singh;BTech+CSE+%7C+Aspiring+Data+Analyst;Turning+data+into+decisions" alt="Typing SVG" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C9EF8,100:B292F5&height=180&section=header&text=Arushi%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=false&desc=BTech%20CSE%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&descSize=18" alt="header banner" />
 
 BTech CSE student (3rd year) with a growing interest in data analysis. I like turning messy datasets into clear, usable insights.
 
