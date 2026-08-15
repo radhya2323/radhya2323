@@ -10,7 +10,7 @@ BTech CSE student (3rd year) with a growing interest in data analysis. I like tu
 
 - **Languages:** Python, SQL
 - **Tools:** Power BI
-- *(add more as you learn them — e.g. under Languages, Tools, or a new category like Libraries/Cloud. When you do, add the matching icon slug to the URL above, comma-separated — full list at skillicons.dev)*
+- *
 
 ---
 
